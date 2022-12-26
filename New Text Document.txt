@@ -1,1 +1,0 @@
-https://medium.com/swlh/calculating-and-visualizing-the-magnetic-field-due-to-a-long-straight-wire-with-python-c5ac2e93c1c8
